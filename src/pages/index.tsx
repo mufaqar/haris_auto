@@ -9,7 +9,6 @@ export default function Home() {
     <>
 
       <div className='container mx-auto'>
-
         <h1 className='font-bold'>Harris Auto </h1>
         <p>
           offers one of the most professional car services
